@@ -229,8 +229,8 @@ export const Bio = {
         "Netlify",
       ],
       category: "web app",
-      github: "",
-      webapp: "",
+      github: "https://github.com/Deep23022000/Portfolio/tree/master",
+      webapp: "https://my-portfolio-tfq7.onrender.com",
     },
     
   ];

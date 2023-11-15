@@ -9,8 +9,8 @@ export const Bio = {
     "I am passionate about creating web applications that are not only visually engaging but also deliver exceptional functionality. With a solid foundation in MongoDB, Express, React, and Node.js, I have successfully designed and developed a variety of dynamic and responsive web solutions. My expertise spans from crafting elegant front-end interfaces with React to building robust back-end systems with Node.js and Express.",
     github: "https://github.com/Deep23022000",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+      "https://drive.google.com/file/d/1ro9zy_nHK_mZwXXHG02LeR6oDeqenW-x/view?usp=drive_link",
+    linkedin: "www.linkedin.com/in/dipanjan-das-2b3512225",
   };
   
   export const skills = [
@@ -226,7 +226,7 @@ export const Bio = {
       tags: [
         "React Js",
         "CSS",
-        "Netlify",
+        "Render",
       ],
       category: "web app",
       github: "https://github.com/Deep23022000/Portfolio/tree/master",

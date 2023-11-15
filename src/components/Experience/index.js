@@ -79,7 +79,7 @@ const index = () => {
     <Container id="experience">
       <Wrapper>
         <Title>Experience</Title>
-        <Desc>Here are some of my projects</Desc>
+        <Desc>Here are some of my experiences</Desc>
         <TimelineSection>
             <Timeline>
               {experiences.map((experience,index) => (

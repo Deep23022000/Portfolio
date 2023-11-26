@@ -159,7 +159,7 @@ export const Bio = {
       id: 1,
       img: "images/Holy_Home.png",
       school: "Holy Home, Serampore",
-      date: "Apr 2016 - Apr 2028",
+      date: "Apr 2016 - Apr 2018",
       grade: "88.25%",
       desc: "I completed my class 12 high school education at Holy Home School, Serampore, where I studied Science with Computer Science.",
       degree: "ISC(XII), Science with Computer",
